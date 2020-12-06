@@ -4,7 +4,6 @@
 //
 //  Created by Huseyin Yolasigmazoglu on 21/08/2020.
 //  Copyright © 2020 Huseyin Yolasigmazoglu. All rights reserved.
-//
 
 import UIKit
 
